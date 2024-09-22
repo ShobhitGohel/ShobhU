@@ -1,0 +1,10 @@
+THe file that you see "Blood.cpp" was created by me and this is the readme file for that.
+This file "Blood.cpp" is the main file and it uses txt files to store the data that you have extered.
+However when you run the code on your computer for the first time there is no txt file created to store the data.
+Now there are some issues in this code not sollved by me... for eg - you try to search the data for the first time you ran the code and
+there is no txt file present....
+There are more small-small issues in this code that needs to be solved.
+
+
+Username : Shobhit
+Password : 123
