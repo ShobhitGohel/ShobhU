@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shobhit GOhel!
+# 👋 Hi, I'm Shobhit Gohel!
 
 Welcome to my GitHub profile! I'm a passionate and curious developer currently learning and building in the world of native android development. I enjoy exploring new technologies and turning ideas into reality through code.
 
